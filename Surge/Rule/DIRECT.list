@@ -1,8 +1,8 @@
-# 叼毛网络
+# > 叼毛网络
 DOMAIN,suc2.sntp.io
 DOMAIN,nd1.sntp.io
 DOMAIN,xn--hwqp2zit2amna.com
-# AD
+# > 12306
 DOMAIN,ad.12306.cn
 # > dedao
 DOMAIN-SUFFIX,umiwi.com
@@ -10,10 +10,10 @@ DOMAIN-SUFFIX,umiwi.com
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
-# > alibaba
+# > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-# > google
+# > Google
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN,clientservices.googleapis.com
@@ -21,7 +21,7 @@ DOMAIN,update.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-# >> Firebase Cloud Messaging
+# > Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -33,7 +33,7 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 # > paramount+
 # DOMAIN,pubads.g.doubleclick.net
-# > tencent
+# > Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
