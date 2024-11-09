@@ -1,13 +1,13 @@
 #叼毛
-DOMAIN-SUFFIX,cn2gias.uk
-DOMAIN-SUFFIX,sntp.uk
 DOMAIN,tz.as9929.uk
+DOMAIN-SUFFIX,sntp.uk
+DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN,dashboard.xttlove.uk
 #regexp:\\.cn2gias\\.uk
 #喜鹊
 DOMAIN,magpie.cyou
-DOMAIN-SUFFIX,magpiecdn.tech
 DOMAIN-SUFFIX,magpie.bond
+DOMAIN-SUFFIX,magpiecdn.tech
 #pilipiliultra
 DOMAIN,emby-us-v4.mius.uk
 DOMAIN,emby.pilipiliultra.top
