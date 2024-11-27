@@ -1,4 +1,4 @@
-# https://raw.githubusercontent.com/caserangle/clash-rule/main/steamstore.yaml
+# > https://raw.githubusercontent.com/caserangle/clash-rule/main/steamstore.yaml
 payload:
 - DOMAIN-SUFFIX,s.team
 - DOMAIN-SUFFIX,store.steampowered.com
