@@ -1,18 +1,15 @@
-#https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list
+# > https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list
 
-#dedao
+# > dedao
 DOMAIN-SUFFIX,umiwi.com
-#general
+# > general
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
-#alibaba
+# > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-#bilibili
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-#google
+# > Google
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN,clientservices.googleapis.com
@@ -20,7 +17,7 @@ DOMAIN,update.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-#Firebase Cloud Messaging
+# > Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -30,26 +27,26 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
-#paramount+
+# > Paramount+
 # DOMAIN,pubads.g.doubleclick.net
-#tencent
+# > Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
-#Strava
+# > Strava
 DOMAIN,analytics.strava.com
-#umeng
+# > umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-#zhiboba
+# > zhiboba
 DOMAIN-SUFFIX,stats.qiumibao.com
-#叼毛
+# > 叼毛
 DOMAIN,sub1.sntp.dev
 DOMAIN-SUFFIX,xn--hwqp2zit2amna.com
-#可莉
+# > 可莉
 DOMAIN,kelee.one
-#12306
+# > 12306
 DOMAIN,ad.12306.cn
-#dogfight360
+# > dogfight360
 DOMAIN-SUFFIX,dogfight360.com
