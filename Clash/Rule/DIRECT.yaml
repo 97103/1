@@ -3,5 +3,4 @@ payload:
 - DOMAIN,sub1.sntp.dev
 - DOMAIN-SUFFIX,xn--hwqp2zit2amna.com
 # > Nvidia
-//- DOMAIN,cn.download.nvidia.cn
 - DOMAIN,cn.download.nvidia.com
