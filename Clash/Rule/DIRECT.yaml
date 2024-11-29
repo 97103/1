@@ -2,3 +2,4 @@ payload:
 - DOMAIN,sub1.sntp.dev
 - DOMAIN-SUFFIX,xn--hwqp2zit2amna.com
 - DOMAIN,cn.download.nvidia.com
+- DOMAIN,updates.cdn-apple.com
