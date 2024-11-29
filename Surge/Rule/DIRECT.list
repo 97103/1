@@ -1,11 +1,8 @@
 # > https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list
 
-# > 叼毛
 DOMAIN,sub1.sntp.dev
 DOMAIN-SUFFIX,xn--hwqp2zit2amna.com
-# > 可莉
 DOMAIN,kelee.one
-# > 12306
 DOMAIN,ad.12306.cn
-# > dogfight360
 DOMAIN-SUFFIX,dogfight360.com
+DOMAIN,cn.download.nvidia.com
