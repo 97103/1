@@ -6,7 +6,8 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,help.steampowered.com
-DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 DOMAIN,community.akamai.steamstatic.com
 DOMAIN,shared.akamai.steamstatic.com
 DOMAIN,store.akamai.steamstatic.com
