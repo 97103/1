@@ -5,11 +5,8 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
-DOMAIN,community.akamai.steamstatic.com
-DOMAIN,shared.akamai.steamstatic.com
-DOMAIN,store.akamai.steamstatic.com
-DOMAIN,video.akamai.steamstatic.com
 DOMAIN-SUFFIX,cloudflare.steamstatic.com
+DOMAIN-SUFFIX,akamai.steamstatic.com
 DOMAIN-SUFFIX,fastly.steamstatic.com
 DOMAIN-SUFFIX,shared.steamstatic.com
 DOMAIN-SUFFIX,clan.steamstatic.com
