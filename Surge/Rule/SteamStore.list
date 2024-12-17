@@ -1,11 +1,8 @@
 # > https://raw.githubusercontent.com/caserangle/clash-rule/main/steamstore.yaml
 
 DOMAIN,s.team
+DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,store.steampowered.com
-DOMAIN-SUFFIX,api.steampowered.com
-DOMAIN-SUFFIX,test.steampowered.com
-DOMAIN-SUFFIX,help.steampowered.com
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 DOMAIN,community.akamai.steamstatic.com
